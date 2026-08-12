@@ -1,0 +1,5 @@
+<x-layout title="Home">
+    <h1>Hello World</h1>
+
+    <p>Welcome to our website</p>
+</x-layout>
